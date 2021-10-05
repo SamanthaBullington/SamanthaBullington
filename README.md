@@ -1,10 +1,14 @@
 ### Hi there! I'm Samantha!
-I am currently attending the CodeWorks bootcamp to become a Full-Stack developer. 
-- 🌛 I currently live in Boise, Idaho with my significant other and our dog, Luna.
-- ⚡ Fun facts: 
-    - I love to play games (analog and digital)! 
-    - I enjoy a good book!
-    - My favorite class is a Sorcerer
+I am a Full-Stack Developer who graduated the Boise Codeworks program. During this program, I obtained 500+ hours of hands-on and classroom lectures where learned a vast skill-set including how to write clean and efficient code as well as how to code professionally on a team with other developers. 
+
+🔭 I’m currently working on a universal front-end and back-end system for Humane Societies and other Pet Adoption Centers using Vue.Js and SQL.
+🌱 I’m currently learning more about clean code. To do this, I'm currently reading Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+
+ Fun facts: 
+    🌛 I currently live in Boise, Idaho with my significant other and our dog, Luna. We are always looking for adventure and are willing to relocate to new places.
+    🎲 I love to play and design games (analog and digital)! 
+    📚 I love to read books!
+    ✨ My favorite DnD class is a Warlock
 
 “A dreamer, I walked enchanted, and nothing held me back.” ― Daphne du Maurier, Rebecca
 
