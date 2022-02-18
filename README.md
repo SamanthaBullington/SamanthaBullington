@@ -11,7 +11,7 @@ I am a Full-Stack Developer who graduated the Boise Codeworks program. During th
     - 📚 I love to read books!
     - ✨ My favorite DnD class is a Warlock
 
-“A dreamer, I walked enchanted, and nothing held me back.” ― Daphne du Maurier, Rebecca
+“The future depends on what you do today” – Gandhi
 
 <!--
 **SamanthaBullington/SamanthaBullington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
