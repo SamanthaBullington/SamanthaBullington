@@ -1,8 +1,6 @@
 ### Hi there! I'm Samantha!
 I am a Full-Stack Developer who graduated the Boise Codeworks program. During this program, I obtained 500+ hours of hands-on and classroom lectures where learned a vast skill-set including how to write clean and efficient code as well as how to code professionally on a team with other developers. 
 
--🔭 I’m currently working on a universal front-end and back-end system for Humane Societies and other Pet Adoption Centers using Vue.Js and SQL.
-
 -🌱 I’m currently learning more about clean code. To do this, I'm reading Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
 - Fun facts: 
