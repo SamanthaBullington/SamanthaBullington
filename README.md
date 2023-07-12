@@ -4,7 +4,7 @@ I am a Full-Stack Developer who graduated the Boise Codeworks program. During th
 - 🌱 I’m currently learning more about clean code. To do this, I'm reading Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
 - Fun facts: 
-    - 🌛 I currently live in Boise, Idaho with my significant other and our dog, Luna. We are always looking for adventure and are willing to relocate to new places.
+    - 🌛 I currently live in La Grande, Oregon with my significant other and our dog, Luna. We are always looking for adventure and are willing to relocate to new places.
     - 🎲 I love to play and design games (analog and digital)! 
     - 📚 I love to read books!
     - ✨ My favorite DnD class is a Warlock
